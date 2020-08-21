@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/8/21 16:04:06。
+     1>项目“D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\life_game\life_game.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\life_game.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\ /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt life.cpp Life_Game.cpp utility.cpp
+         utility.cpp
+         Life_Game.cpp
+         life.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\Debug\life_game.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\life_game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\Debug\life_game.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\Debug\life_game.lib" /MACHINE:X86 Debug\life.obj
+         Debug\Life_Game.obj
+         Debug\utility.obj
+         LINK : 没有找到 D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\Debug\life_game.exe 或上一个增量链接没有生成它；正在执行完全链接
+         life_game.vcxproj -> D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\Debug\life_game.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\Debug\life_game.exe;#1" /manifest Debug\life_game.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\life_game.unsuccessfulbuild”。
+         正在对“Debug\life_game.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Documents\05代码仓库\C++\数据结构与程序设计C++\Data_Structures_and_Program_Design\life_game\life_game\life_game.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.25
